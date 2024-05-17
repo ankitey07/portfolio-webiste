@@ -1,0 +1,61 @@
+/* CSS Code */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+    /* Light background color */
+}
+
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    /* White background for container */
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    /* Soft shadow effect */
+}
+
+h1 {
+    color: #333;
+    text-align: center;
+}
+
+.blog-paragraph {
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #f2f2f2;
+    /* Light gray background for blog paragraph */
+    margin-bottom: 20px;
+}
+
+.blog-paragraph h2 {
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.blog-paragraph p {
+    color: #666;
+    line-height: 1.6;
+}
+
+.blog-post {
+    padding: 15px;
+    border-radius: 5px;
+    background-color: #fafafa;
+    /* Off-white background for blog posts */
+    margin-bottom: 20px;
+}
+
+.blog-post h3 {
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.blog-post p {
+    color: #666;
+    line-height: 1.6;
+}
